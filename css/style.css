@@ -24,9 +24,11 @@ span {
     padding-left: 30px;
 }
 .order-buttn {
+    display: inline-block;
     text-decoration: none;
     color: white;
     background-image: linear-gradient(orange,tomato);
     padding: 10px 20px;
     border-radius: 20px;
+    padding-left: 30px;
 }

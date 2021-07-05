@@ -1,0 +1,32 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-size: 40px;
+    font-weight: bolder;
+    padding-top: 0;
+    padding-left: 30px;
+    color: rgb(88, 88, 88);
+}
+span {
+    color: orange;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+.flex-element {
+    display: flex;
+    margin-bottom: 150px;
+}
+.image {
+    width: 80%;
+    margin-left: 10%;
+}
+.flex-element p {
+    padding-left: 30px;
+}
+.order-buttn {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+    border-radius: 20px;
+}

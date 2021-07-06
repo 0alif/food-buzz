@@ -1,4 +1,6 @@
 body {
+    margin: 0;
+    padding: 0;
     font-family: 'Poppins', sans-serif;
 }
 h1 {
@@ -77,8 +79,24 @@ span {
 .box-element {
     margin-left: 2%;
     margin-right: 2%;
-    border: 5px;
-    border-color: white;
     border-radius: 20px;
     box-shadow: 20px 20px 50px gray;
+}
+.subscribers {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    box-shadow: 30px 30px 60px gray;
+}
+.subscribers div {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.subscribers small {
+    text-align: right;
+}
+.subscribers-color {
+    color: black;
+    font-weight: bolder;
 }

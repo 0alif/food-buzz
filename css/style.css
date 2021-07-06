@@ -60,8 +60,25 @@ span {
 .recipies {
     margin-left: 30%;
     margin-right: 30%;
+    margin-bottom: 5%;
     text-align: center;
 }
 .recipies h2 {
     color: rgb(88, 88, 88);
+}
+.recipies-images {
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 3%;
+}
+.recipies-list {
+    margin-left: 10%;
+}
+.box-element {
+    margin-left: 2%;
+    margin-right: 2%;
+    border: 5px;
+    border-color: white;
+    border-radius: 20px;
+    box-shadow: 20px 20px 50px gray;
 }

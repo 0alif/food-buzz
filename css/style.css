@@ -100,3 +100,15 @@ span {
     color: black;
     font-weight: bolder;
 }
+footer {
+    background-color: #001427;
+    padding-top: 1%;
+    padding-bottom: 3%;
+    text-align: center;
+}
+footer h2 {
+    color: rgb(88, 88, 88);
+}
+footer p {
+    color: white;
+}

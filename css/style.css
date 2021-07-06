@@ -20,7 +20,7 @@ span {
 .half-width {
     width: 50%;
 }
-.image {
+#top-img {
     width: 80%;
     margin-left: 10%;
 }
@@ -35,4 +35,25 @@ span {
     padding: 10px 20px;
     border-radius: 20px;
     margin-left: 50px;
+}
+#about-me-img {
+    width: 50%;
+    margin-left: 20%;
+}
+.contact-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+    margin-top: 10%;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+#about-me-background-img {
+    background-image: url(../images/shapes/Frame-59.jpg);
+}
+.about-me {
+    margin-left: 50px;
+    color: rgb(88, 88, 88);
 }

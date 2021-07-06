@@ -94,8 +94,10 @@ span {
     margin-left: 10%;
     margin-right: 10%;
 }
-.subscribers small {
-    text-align: right;
+.subscribers p {
+    text-align: center;
+    margin-left: 4%;
+    margin-top: -20%;
 }
 .subscribers-color {
     color: black;

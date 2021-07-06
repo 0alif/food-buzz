@@ -3,6 +3,21 @@ body {
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+ul {
+    margin: 0;
+    padding: 0;
+}
+ul li {
+    float: left;
+    list-style-type: none;
+}
+ul li a {
+    color: orange;
+    text-decoration: none;
+    padding: 15px 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
 h1 {
     font-size: 40px;
     font-weight: bolder;

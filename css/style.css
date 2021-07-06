@@ -57,3 +57,11 @@ span {
     margin-left: 50px;
     color: rgb(88, 88, 88);
 }
+.recipies {
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+.recipies h2 {
+    color: rgb(88, 88, 88);
+}
